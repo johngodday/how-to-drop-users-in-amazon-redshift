@@ -1,0 +1,1 @@
+# how-drop-users-in-amazon-redshift
